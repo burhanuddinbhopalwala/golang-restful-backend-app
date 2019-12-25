@@ -54,4 +54,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
